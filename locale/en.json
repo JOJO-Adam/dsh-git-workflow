@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Git Workflow Studio",
+    "description": "Git workflow studio: branch model, commit conventions, PR review, history surgery, disaster recovery and release versioning."
+  }
+}

@@ -1,0 +1,3 @@
+- insert:
+    - id: jojo-adam-git-workflow
+      name: '@jojonadam/dsh-git-workflow'
