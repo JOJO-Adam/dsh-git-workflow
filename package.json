@@ -1,6 +1,6 @@
 {
   "name": "@jojonadam/dsh-git-workflow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Git workflow studio for DeepSeek Harness: branch model, commit conventions, PR review, history surgery, disaster recovery and release versioning. 分支纪律 · 提交规范 · 六本手册。",
   "type": "module",
   "main": "lib/index.js",
@@ -17,7 +17,8 @@
     "icon.svg",
     "README.md",
     "LICENSE",
-    "locale"
+    "locale",
+    "README.en.md"
   ],
   "keywords": [
     "dsh-plugin",

@@ -1,5 +1,8 @@
 # dsh-git-workflow · JOJO&Adam
 
+> English: [README.en.md](README.en.md)
+
+
 装完之后，agent 在开分支、写提交、提 PR、发版本之前会先按你们自己的规矩走，而不是每次现编一套。
 
 ## 安装
